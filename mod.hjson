@@ -22,3 +22,7 @@ minGameVersion: 145
 
 #this is a java mod
 java: true
+
+#hide from anuken's mod browser
+##this is a fork for making pull requests
+hideBrowser: true
